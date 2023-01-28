@@ -4,4 +4,4 @@ The development team:
 #Alisher Pulatov - Key developer
 #Izzatbek Barotov - Developer
 
-The hexashop website is for buyinh online products. This website is developed for educational purpose!
+The hexashop website is for buying online products. This website is developed for educational purpose!
